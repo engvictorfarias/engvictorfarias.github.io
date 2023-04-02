@@ -6,7 +6,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   Here are my projects with Python, R and Power BI.
   <br><br>
   <a href="https://www.linkedin.com/in/eng-victor-farias/">View My LinkedIn Profile</a>
-  
+  <br><br>
   <a href="https://www.kaggle.com/engvictorfarias">View My Kaggle Profile</a> 
   
 theme: jekyll-theme-minimal
