@@ -4,22 +4,22 @@
 
 ### Projetos com Python 
 
-[Project 1 - Modelo de Classificação Binário]([/sample_page](https://github.com/engvictorfarias/engvictorfarias/blob/main/classifica-o-c-ncer-de-mama-winsconsin-python-ml.ipynb))
+[Project 1 - Binary Classification Models]([/sample_page](https://github.com/engvictorfarias/engvictorfarias/blob/main/classifica-o-c-ncer-de-mama-winsconsin-python-ml.ipynb))
 <img src="images/comparativo-modelos-classificacao-cancer-wisconsin.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Project 2 - Credit Card Fraud Detection]([/pdf/sample_presentation.pdf](https://www.kaggle.com/code/engvictorfarias/credit-card-fraud-detection-python))
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 3 - Regression: Healthcare Cost]([http://example.com/](https://www.kaggle.com/code/engvictorfarias/regress-o-custos-planos-de-sa-de-c-python))
+<img src="images/modelo-regressa-healthcare.png?raw=true"/>
 
 ---
 
 ### Projetos com R
 
-- [Project 1 Title](http://example.com/)
+- [Project 1 - Credit Card Fraud Detection]([http://example.com/](https://www.kaggle.com/code/engvictorfarias/an-lise-de-fraude-em-c-de-cr-dito-linguagem-r))
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
