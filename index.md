@@ -1,8 +1,8 @@
-## Portfolio
+## Portfólio @engvictorfarias
 
 ---
 
-### Category Name 1 
+### Projetos com Python 
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -12,12 +12,12 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Project 3 Title](http://example.com/](https://github.com/engvictorfarias/engvictorfarias/blob/main/classifica-o-c-ncer-de-mama-winsconsin-python-ml.ipynb)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Projetos com R
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
@@ -27,7 +27,18 @@
 
 ---
 
+### Dashboards Power BI 
 
+[Project 1](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Project 2](/pdf/sample_presentation.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Project 3](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
 ---
