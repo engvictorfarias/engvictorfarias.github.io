@@ -5,7 +5,7 @@
 ### Projetos com Python 
 
 [Project 1 - Modelo de Classificação Binário]([/sample_page](https://github.com/engvictorfarias/engvictorfarias/blob/main/classifica-o-c-ncer-de-mama-winsconsin-python-ml.ipynb))
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/comparativo-modelos-classificacao-cancer-wisconsin.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
