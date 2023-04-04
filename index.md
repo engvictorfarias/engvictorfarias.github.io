@@ -4,12 +4,12 @@
 
 ### Projetos com Python 
 
-[Project 1 - Binary Classification Models]([/sample_page](https://github.com/engvictorfarias/engvictorfarias/blob/main/classifica-o-c-ncer-de-mama-winsconsin-python-ml.ipynb))
+[Project 1 - Binary Classification Models](https://github.com/engvictorfarias/engvictorfarias/blob/main/classifica-o-c-ncer-de-mama-winsconsin-python-ml.ipynb)
 <img src="images/comparativo-modelos-classificacao-cancer-wisconsin.png?raw=true"/>
 
 ---
-[Project 2 - Credit Card Fraud Detection]([/pdf/sample_presentation.pdf](https://www.kaggle.com/code/engvictorfarias/credit-card-fraud-detection-python))
-# <img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 2 - Credit Card Fraud Detection](https://www.kaggle.com/code/engvictorfarias/credit-card-fraud-detection-python)
+[//]: # <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Project 3 - Regression: Healthcare Cost]([/sample_page](https://www.kaggle.com/code/engvictorfarias/regress-o-custos-planos-de-sa-de-c-python))
@@ -30,13 +30,13 @@
 ### Dashboards Power BI 
 
 [Project 1](/sample_page)
-# <img src="images/dummy_thumbnail.jpg?raw=true"/>
+[//]: # <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Project 2](/pdf/sample_presentation.pdf)
-# <img src="images/dummy_thumbnail.jpg?raw=true"/>
+[//]: # <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Project 3](http://example.com/)
-# <img src="images/dummy_thumbnail.jpg?raw=true"/>
+[//]: # <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
