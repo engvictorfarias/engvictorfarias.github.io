@@ -10,10 +10,5 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://www.kaggle.com/engvictorfarias">View My Kaggle Profile</a> 
   <br><br>
   
-   Hi, my name is Victor, I'm an Engineering Mechanical, 
-   with post-graduation in Business Intelligence (BI), Big Data 
-   & Analytics. Further more, I'm doing a specialization in 
-   Data Scientist Formation.
-  
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
