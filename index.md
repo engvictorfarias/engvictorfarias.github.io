@@ -9,11 +9,11 @@
 
 ---
 [Project 2 - Credit Card Fraud Detection]([/pdf/sample_presentation.pdf](https://www.kaggle.com/code/engvictorfarias/credit-card-fraud-detection-python))
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+# <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 - Regression: Healthcare Cost]([http://example.com/](https://www.kaggle.com/code/engvictorfarias/regress-o-custos-planos-de-sa-de-c-python))
-<img src="images/modelo-regressa-healthcare.png?raw=true"/>
+[Project 3 - Regression: Healthcare Cost]([/sample_page](https://www.kaggle.com/code/engvictorfarias/regress-o-custos-planos-de-sa-de-c-python))
+<img src="images/modelo-regressao-healthcare.png?raw=true"/>
 
 ---
 
@@ -30,13 +30,13 @@
 ### Dashboards Power BI 
 
 [Project 1](/sample_page)
-#<img src="images/dummy_thumbnail.jpg?raw=true"/>
+# <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Project 2](/pdf/sample_presentation.pdf)
-#<img src="images/dummy_thumbnail.jpg?raw=true"/>
+# <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Project 3](http://example.com/)
-#<img src="images/dummy_thumbnail.jpg?raw=true"/>
+# <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
