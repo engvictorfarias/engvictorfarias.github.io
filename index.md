@@ -19,19 +19,19 @@
 ### Projetos com R
 
 - [Project 1 - Credit Card Fraud Detection](https://www.kaggle.com/code/engvictorfarias/an-lise-de-fraude-em-c-de-cr-dito-linguagem-r)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Project 2 Title]
+- [Project 3 Title]
+- [Project 4 Title]
+- [Project 5 Title]
 
 ---
 
 ### Dashboards Power BI 
 
-[Project 1](/sample_page)
+[Project 1]
 
 ---
-[Project 2](/pdf/sample_presentation.pdf)
+[Project 2]
 
 ---
-[Project 3](http://example.com/)
+[Project 3]
