@@ -1,4 +1,4 @@
-## Portfólio @engvictorfarias
+## Portfólio @engvictorfarias (em construção)
 
 ---
 
@@ -30,13 +30,13 @@
 ### Dashboards Power BI 
 
 [Project 1](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+#<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Project 2](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+#<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Project 3](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+#<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
