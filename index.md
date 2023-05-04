@@ -4,7 +4,7 @@
 
 ### Projetos com Python 
 
-[Project 1 - Binary Classification Models](https://github.com/engvictorfarias/engvictorfarias/blob/main/classifica-o-c-ncer-de-mama-winsconsin-python-ml.ipynb)
+[Project 1 - Binary Classification Models](https://github.com/engvictorfarias/engvictorfarias/blob/main/classifica-o-breast-cancer-winsconsin-python-ml.ipynb)
 <img src="images/comparativo-modelos-classificacao-cancer-wisconsin.png?raw=true"/>
 
 ---
@@ -14,6 +14,8 @@
 [Project 3 - Regression: Healthcare Cost](https://www.kaggle.com/code/engvictorfarias/regress-o-custos-planos-de-sa-de-c-python)
 <img src="images/modelo-regressao-healthcare.png?raw=true"/>
 
+---
+[Project 4 - RPA: refresh automation on Power BI Service]()
 ---
 
 ### Projetos com R
