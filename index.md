@@ -1,21 +1,4 @@
-<html>
-<head>
-  <title>
-  Portfólio @engvictorfarias (em construção)
-  </title>
-  
-  <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-MJ0J57DK8K"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-MJ0J57DK8K');
-</script>
-  
-  </head>
-</html>
-## 
+##  Portfólio @engvictorfarias (em construção)
 
 ---
 
