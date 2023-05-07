@@ -13,22 +13,20 @@
 
 ---
 [Project 3 - Credit Card Fraud Detection](https://www.kaggle.com/code/engvictorfarias/credit-card-fraud-detection-python)
-
+<img src = "https://www.kaggleusercontent.com/kf/93758421/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..4wjsRwDPnd6PGRheRe9R-A.7XMJvylB7_agDbRfRQdBW_nB7fQ4BmmYIpsXPLGi8qqpbVet4ZC1-l9c_hv6jT04sUoNmmwLhtBXDNd05grjcWqzws2NDNssbJ5k4oO8eO8rI2vzAhQjybJ16AYL6xOEUqqZOjrJFd9fOSVJOjNBsJUAxEuuJe_mIdRuT_qEK1O2k6t60vSWmqvtG4im2W3hp6x7j2IUUmzuSu-jQ_131S5PcpzBL0zfOZzSfBOh3nhkjwKUOf7GDpYR1H51XRA5yTbZmENGn3sPkBWoG1TODSyVeG5Dx5T5GFCgREhURsRjxo0Kpb2d4PY-ogK71gnn2q5__t4DZa4FRBlts1vwUf7LeTRqdshoWQ_RzsjFt8WvO9tc0MLA2c82gjyqp8jp_Izj0bp5Rcwx5pwxcNI9Wl0FSiA-jYHntipcsaVSFZTjqlA1KkacIocTNvjZYyBeyiH04bUAqcm_XY92_wOkVu4_Dx9H6PxvnsfMCd1UDyqxGzBo49FjEfUIKBYSW40Skmz-MFrYY6stOeZgafGlGSkEgUnTlCMbOeXAYX62pkuNH6NN5S7yYu3smGm0YdtBbTJySjD8izDDAPSGB0muYSw45ZfLFlbcP-wJb3i5yGHArL9aYAZ9m22LJll7BetFcnvavprZugUx5vwblvAbR7kwEnTOvmSVWlSkTV8-uBTgIWUmCUzdpJYU6dDvsNbV.PK3d2FYS-ebaNLi9sD3JdQ/__results___files/__results___29_0.png">
 ---
 [Project 4 - Regression: Healthcare Cost](https://www.kaggle.com/code/engvictorfarias/regress-o-custos-planos-de-sa-de-c-python)
 <img src="images/modelo-regressao-healthcare.png?raw=true"/>
 
 ---
 [Project 5 - RPA: refresh automation on Power BI Service](https://www.linkedin.com/posts/eng-victor-farias_python-powerbi-businessinteligence-activity-7056420967048257536-xg6r?utm_source=share&utm_medium=member_desktop)
+<img src="images/rpa-refresh-pbi.gif?raw=true"/>
 ---
 
 ### Projetos com R
 
 - [Project 1 - Credit Card Fraud Detection](https://www.kaggle.com/code/engvictorfarias/an-lise-de-fraude-em-c-de-cr-dito-linguagem-r)
-- [Project 2 Title]
-- [Project 3 Title]
-- [Project 4 Title]
-- [Project 5 Title]
+- [Project 2 - Data Cleaning](https://www.kaggle.com/code/engvictorfarias/portal-ans-an-lise-idss)
 
 ---
 
@@ -37,7 +35,3 @@
 [Project 1]
 
 ---
-[Project 2]
-
----
-[Project 3]
