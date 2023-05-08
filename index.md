@@ -13,7 +13,7 @@
 
 ---
 [Project 3 - Credit Card Fraud Detection](https://www.kaggle.com/code/engvictorfarias/credit-card-fraud-detection-python)
-<img src="images/confusion-matrix.png?raw=true"/>
+<img src="images/confusion_matrix.png?raw=true"/>
 
 ---
 [Project 4 - Regression: Healthcare Cost](https://www.kaggle.com/code/engvictorfarias/regress-o-custos-planos-de-sa-de-c-python)
