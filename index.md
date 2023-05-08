@@ -13,6 +13,7 @@
 
 ---
 [Project 3 - Credit Card Fraud Detection](https://www.kaggle.com/code/engvictorfarias/credit-card-fraud-detection-python)
+
 <img src="images/confusion_matrix.png?raw=true"/>
 
 ---
