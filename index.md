@@ -20,8 +20,10 @@
 [Project 4 - Regression: Healthcare Cost](https://www.kaggle.com/code/engvictorfarias/regress-o-custos-planos-de-sa-de-c-python)
 <img src="images/modelo-regressao-healthcare.png?raw=true"/>
 
+[Project 5 - Classificação com Apache Spark](https://github.com/engvictorfarias/engvictorfarias/blob/main/Modelo%20de%20Classifica%C3%A7%C3%A3o%20Com%20Python%20e%20Apache%20Spark%20-%20MLlib.ipynb)
+
 ---
-[Project 5 - RPA: refresh automation on Power BI Service](https://www.linkedin.com/posts/eng-victor-farias_python-powerbi-businessinteligence-activity-7056420967048257536-xg6r?utm_source=share&utm_medium=member_desktop)
+[Project 6 - RPA: refresh automation on Power BI Service](https://www.linkedin.com/posts/eng-victor-farias_python-powerbi-businessinteligence-activity-7056420967048257536-xg6r?utm_source=share&utm_medium=member_desktop)
 <img src="images/rpa_refresh_pbi.gif?raw=true"/>
 
 ---
